@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trivia-app/static/css/main.a824d911.chunk.css",
+    "main.js": "/trivia-app/static/js/main.05cb462c.chunk.js",
+    "main.js.map": "/trivia-app/static/js/main.05cb462c.chunk.js.map",
+    "runtime-main.js": "/trivia-app/static/js/runtime-main.f9639618.js",
+    "runtime-main.js.map": "/trivia-app/static/js/runtime-main.f9639618.js.map",
+    "static/js/2.d491471e.chunk.js": "/trivia-app/static/js/2.d491471e.chunk.js",
+    "static/js/2.d491471e.chunk.js.map": "/trivia-app/static/js/2.d491471e.chunk.js.map",
+    "index.html": "/trivia-app/index.html",
+    "precache-manifest.f483a941b1f78245127a67574c70b878.js": "/trivia-app/precache-manifest.f483a941b1f78245127a67574c70b878.js",
+    "service-worker.js": "/trivia-app/service-worker.js",
+    "static/css/main.a824d911.chunk.css.map": "/trivia-app/static/css/main.a824d911.chunk.css.map",
+    "static/js/2.d491471e.chunk.js.LICENSE.txt": "/trivia-app/static/js/2.d491471e.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/trivia-app/static/media/github.f380cb75.svg",
+    "static/media/stackoverflow.svg": "/trivia-app/static/media/stackoverflow.1c683041.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9639618.js",
+    "static/js/2.d491471e.chunk.js",
+    "static/css/main.a824d911.chunk.css",
+    "static/js/main.05cb462c.chunk.js"
+  ]
+}
