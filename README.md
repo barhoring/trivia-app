@@ -1,6 +1,8 @@
 Tiny trivia written in React with hooks.
 See this app live [https://barhoring.github.io/trivia-app/](https://barhoring.github.io/trivia-app/)
 
+![](https://raw.githubusercontent.com/barhoring/trivia-app/master/github-screenshot-trivia-app.png)
+
 A funny trivia game.
 Questions are served as json from
 [fake-server](https://github.com/barhoring/fake-server)
@@ -8,9 +10,9 @@ Questions are served as json from
 Written with React by
 Bar Horing Amir
 
-# Instructions to build locally
+## Instructions to build locally
 
-#### Clone the repo
+### Clone the repo
 
 `git clone https://github.com/barhoring/trivia-app.git`
 
