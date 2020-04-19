@@ -1,4 +1,4 @@
-See this app [live](https://barhoring.github.io/zoominfo-app/)
+See this app [live](https://barhoring.github.io/trivia-app/)
 
 A funny trivia game.
 Questions are served as json from
@@ -11,11 +11,11 @@ Bar Horing Amir
 
 #### Clone the repo
 
-`git clone https://github.com/barhoring/zoominfo-app.git`
+`git clone https://github.com/barhoring/trivia-app.git`
 
 #### Install dependencies
 
-`cd zoominfo-app`
+`cd trivia-app`
 `npm install`
 
 #### Play

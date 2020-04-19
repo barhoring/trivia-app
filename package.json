@@ -1,6 +1,5 @@
 {
-  "homepage": "C:/dev/zoominfo-app/build",
-  "name": "zoominfo-app",
+  "name": "trivia-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
